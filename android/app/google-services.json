@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067690170723",
+    "project_id": "bazino-49438",
+    "storage_bucket": "bazino-49438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067690170723:android:97f7ab5b6d54912ab29b56",
+        "android_client_info": {
+          "package_name": "ir.sitecoder.bazino.bazino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067690170723-e3nvegtbl0bp47p58btplc64v5js7b6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Q_owTfz2FhsIxXjxddrx2ZDqIn-Pdqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067690170723-e3nvegtbl0bp47p58btplc64v5js7b6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
